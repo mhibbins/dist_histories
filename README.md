@@ -25,6 +25,8 @@ These scripts were used to assess the ability of PhyloNet to accurately estimate
 
 **plot_edgeweight_correlations.py** - Plots results of the analysis. Generated Figure 7.
 
+**plot_prop_incorrect_tree.py** - Plots the proportion of cases where PhyloNet returned the wrong strictly bifurcating tree. Generated Supplementary Figure 5. 
+
 **run_phylonet.sh** - Pipeline to run phylonet on all files across parameter combinations. 
 
 **sim_genetrees.py** - Simulates gene tree datasets for input to phylonet.
